@@ -4,10 +4,19 @@ Materiale per Coding-lab
 
 Link:
 
-[https://en.wikipedia.org/wiki/Processing_(programming_language)#p5.js] Processing Wiki
+[Processing Wiki](https://en.wikipedia.org/wiki/Processing_(programming_language)#p5.js)[^1]
 
-[https://p5js.org/examples/] Esempi
+[Esempi](https://p5js.org/examples/)[^2]
 
-[https://github.com/p5py/p5] Libreria Python P5js
+[Libreria Python P5js](https://github.com/p5py/p5)[^3]
 
-[https://wbo.ophir.dev/]
+[Lavagna collaborativa](https://wbo.ophir.dev/)[^4]
+
+[Lavagna Geogebra](https://www.geogebra.org/notes/jvsjwb6x)[^5]
+
+Note:
+[^1]: https://en.wikipedia.org/wiki/Processing_(programming_language)#p5.js
+[^2]: https://p5js.org/examples/
+[^3]: https://github.com/p5py/p5
+[^4]: https://wbo.ophir.dev/
+[^5]: https://www.geogebra.org/notes/jvsjwb6x
