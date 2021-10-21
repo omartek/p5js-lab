@@ -6,7 +6,7 @@ Link:
 
 [Processing Wiki](https://en.wikipedia.org/wiki/Processing_(programming_language)#p5.js)[^1]
 
-[Esempi](https://p5js.org/examples/)[^2]
+[Esempi di P5js](https://p5js.org/examples/)[^2]
 
 [Libreria Python P5js](https://github.com/p5py/p5)[^3]
 
