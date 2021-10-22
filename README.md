@@ -1,6 +1,8 @@
 # p5js
 
-Materiale per Coding-lab
+Materiale per Coding-lab.
+
+[Sito presentazione corso](https://omartek.github.io/p5lab-embed/)
 
 Link:
 
