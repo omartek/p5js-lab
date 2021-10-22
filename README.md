@@ -16,6 +16,8 @@ Link:
 
 [La Digitale.dev](https://ladigitale.dev/)[^6]
 
+[The coding train](https://thecodingtrain.com/)[^7]
+
 
 Note:
 [^1]: https://en.wikipedia.org/wiki/Processing_(programming_language)#p5.js
@@ -24,3 +26,4 @@ Note:
 [^4]: https://wbo.ophir.dev/
 [^5]: https://www.geogebra.org/notes/jvsjwb6x
 [^6]: https://ladigitale.dev/
+[^7]: https://thecodingtrain.com/
