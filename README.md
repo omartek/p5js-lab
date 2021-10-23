@@ -18,7 +18,7 @@ Link:
 
 [La Digitale.dev](https://ladigitale.dev/)[^6]
 
-[The coding train](https://thecodingtrain.com/)[^7]
+[The coding train - Video Tutorial by D.Shiffman](https://thecodingtrain.com/)[^7]
 
 
 Note:
