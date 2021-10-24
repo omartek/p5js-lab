@@ -20,7 +20,6 @@ Link:
 
 [The coding train - Video Tutorial by D.Shiffman](https://thecodingtrain.com/)[^7]
 
----
 Note:
 [^1]: https://en.wikipedia.org/wiki/Processing_(programming_language)#p5.js
 [^2]: https://p5js.org/examples/
