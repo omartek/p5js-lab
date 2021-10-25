@@ -1,6 +1,9 @@
 function setup() {
  createCanvas(400, 400);
 }
+
+// serpentone di cerchi
+
 function draw() {
  if (mouseIsPressed) {
  fill(0);
