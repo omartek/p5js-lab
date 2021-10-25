@@ -5,6 +5,8 @@ function setup() {
 // serpentone di cerchi
 
 function draw() {
+
+// con mouse premuto il cerchio è nero
  if (mouseIsPressed) {
  fill(0);
  } else {
