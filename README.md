@@ -2,7 +2,7 @@
 
 Materiale per il Coding-lab su P5js.
 
-[Sito presentazione corso](https://omartek.github.io/p5lab-embed/)
+[Sito web di presentazione del corso](https://omartek.github.io/p5lab-embed/)
 
 Link:
 
